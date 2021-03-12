@@ -1,0 +1,6 @@
+.radius-none{
+    border-radius: 0px!important;
+}
+.radius-none:focus {
+    outline: none!important;
+}
